@@ -1,0 +1,27 @@
+.a{
+    text-align: right;
+
+}
+#a3{
+    background-color: blueviolet;
+}
+
+*{
+    color:rebeccapurple;
+    background-color: rgb(231, 231, 158);
+}
+h3{color: blue;
+background-color: rgb(230, 164, 230);
+border: 50px darkblue double;}
+
+button{background-color: pink;}
+
+#a1{background-color: red;
+color:black;
+border: 50px darkblue double;}
+
+#a2{background-color: aqua;
+
+color: black;}
+
+
